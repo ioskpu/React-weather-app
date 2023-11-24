@@ -24,6 +24,10 @@ Get Your OpenWeatherMap API KEY here: https://home.openweathermap.org/api_keys
 
 ## 🌐 **[Live Preview](https://hweather.netlify.app/)**
 
+## 🌐 **[Developer](https://github.com/hicodersofficial/weather-app/)**
+
 ![](./preview.png)
+
+developer
 
 ## **Thank You! ❣️**
