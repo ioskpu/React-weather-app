@@ -28,6 +28,4 @@ Get Your OpenWeatherMap API KEY here: https://home.openweathermap.org/api_keys
 
 ![](./preview.png)
 
-developer
-
 ## **Thank You! ❣️**
